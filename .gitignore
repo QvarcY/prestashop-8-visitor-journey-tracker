@@ -1,0 +1,17 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Archives / temporary build files
+*.zip
+*.tar.gz
+*.tmp
+build/
+dist/
+
+# Logs
+*.log

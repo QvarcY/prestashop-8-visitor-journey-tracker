@@ -1,0 +1,10 @@
+CraftIN Visitor Journey
+Copyright (c) 2026 QvarcY / CraftIN
+SPDX-License-Identifier: AFL-3.0
+This module is released under the Academic Free License 3.0 (AFL-3.0),
+the same license family commonly used for PrestaShop modules. 
+License reference: https://opensource.org/license/afl-3-0-php
+
+ Author: QvarcY / CraftIN 
+ Author website: https://kas.id.lv 
+ Contact: info@kas.id.lv
